@@ -12,7 +12,7 @@
 
 - 📫 Reach me @ **vsmali4119@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I4fmE6zRtVDLFtuF8-Ap78UP1SDlXLjI/view?usp=share_link](Vikram Mali - Experience)
+- 📄 Know about my experiences [Vikram mali-Experiences](https://urlzs.com/K6fbr)
 
 - ⚡ Fun fact **Willingness to leave comfort zone**
 
