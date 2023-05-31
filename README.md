@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrammali04&label=Profile%20views&color=0e75b6&style=flat" alt="vikrammali04" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Odoo**
 
 - 💬 Ask me about **Python programming , Graphics designing**
 
