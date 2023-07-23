@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrammali04&label=Profile%20views&color=0e75b6&style=flat" alt="vikrammali04" /> </p>
 
-- 🌱 I’m currently Diving Deep into Data ** Learning the Ropes of Data Science! **
+- 🌱 I’m currently Diving Deep into Data **Learning the Ropes of Data Science!**
 
 - 💬 Ask me about **Python programming , Machine Learning , Data engineering , Data visualization , Graphics designing**
 
