@@ -13,8 +13,6 @@
 
 - 📫 Reach me @ **vsmali4119@gmail.com**
 
-- 📄 Know about my experiences
-
 - ⚡ Fun fact **Willingness to leave comfort zone**
 
 <h3 align="left">Connect with me:</h3>
