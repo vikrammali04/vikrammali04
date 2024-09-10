@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Mali</h1>
 <h3 align="center">Cracking Codes, Unveiling Insights: A Journey into the Data Universe.
 </h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrammali04&label=Profile%20views&color=0e75b6&style=flat" alt="vikrammali04" /> </p>
 - 🌱 I’m currently Diving Deep into Data **Learning the Ropes of Data Science!**
 
 - 💬 Ask me about **Python, Machine Learning, Deep learning, GenAi, Data engineering, Data visualization, **
