@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Diving Deep into Data **Learning the Ropes of Data Science!**
 
-- 💬 Ask me about **Python programming , Machine Learning , Data engineering , Data visualization , Graphics designing**
+- 💬 Ask me about **Python, Machine Learning, Deep learning, GenAi, Data engineering, Data visualization, **
 
 - 📫 Reach me @ **vsmali4119@gmail.com**
 
